@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="location">Location</string>
+    <string name="scotland">Scotland</string>
+    <string name="date">Date</string>
+    <string name="_28th_august_2017">28th August 2017</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_quisque_imperdiet_mollis_enim_vitae_pretium_massa_mollis_at_maecenas_gravida_dapibus_sapien_a_sodales_cras_arcu_neque_ultrices_id_augue_quis_ullamcorper_porttitor_enim_aliquam_quis_sagittis_dolor_interdum_et_malesuada_fames_ac_ante_ipsum_primis_in_faucibus">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque imperdiet mollis enim, vitae pretium massa mollis at. Maecenas gravida dapibus sapien a sodales. Cras arcu neque, ultrices id augue quis, ullamcorper porttitor enim. Aliquam quis sagittis dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus.</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="star">star</string>
+</resources>
